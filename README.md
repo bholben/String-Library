@@ -1,12 +1,18 @@
-## Homework
 
-## Create your own mini JS Library
+## String Library
 
-### Deliverables
+[Assignment #12](https://github.com/tiy-atl-js-q1-2015/Assignments) from [The Iron Yard's](http://theironyard.com/locations/atlanta/) 12-week Front End Engineering bootcamp Q1 2015.
 
-1. Create our own library that has
-  * At least 10 different methods
-  * Make them useful, possibly come up with a theme
-2. Deploy to Heroku, Divshot or GH Pages
-3. I should be able to go to your deployed site, open up Chrome tools and view your object or function and work with it.
+Practice at creating a library
+
+### Deliverable
+[http://development.bholben-string-library.divshot.io/](http://development.bholben-string-library.divshot.io/)
+
+### Technologies
+  * JavaScript
+
+### How to use it
+
+From command line:
+  * `git clone git@github.com:bholben/String-Library.git`
 
